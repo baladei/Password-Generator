@@ -13,7 +13,7 @@ body {
 }
 
 html {
-  background: linear-gradient(180deg, #0263ffcb 0%, #96fbed 100%);
+  background: linear-gradient(180deg, #001b43cb 0%, #96fbed 100%);
 }
 
 input:focus {
@@ -32,6 +32,7 @@ input:focus {
 #register-banner {
   background: url(../img/background.jpg);
   background-size: cover;
+  background-position: center;
   width: 50%;
 }
 
@@ -43,7 +44,7 @@ input:focus {
 }
 
 #banner-layer {
-  background-color: #3bc5da4a;
+  background-color: #022357cb;
   height: 100%;
   padding: 2rem;
   display: flex;
